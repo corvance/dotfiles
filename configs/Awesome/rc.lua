@@ -46,7 +46,7 @@ end
 -- {{{ Variable definitions
 -- Themes define colours, icons, font and wallpapers.
 --beautiful.init(gears.filesystem.get_configuration_dir() .. "/themes/default/default.lua")
-local theme_path = string.format("%s/.config/awesome/themes/%s/theme.lua", os.getenv("HOME"), "pro-dark")
+local theme_path = string.format("%s/.config/awesome/themes/%s/theme.lua", os.getenv("HOME"), "awesome-theme")
 beautiful.init(theme_path)
 
 --local chosen_theme = "ayu"
