@@ -12,7 +12,7 @@ The window manager is AwesomeWM with the status bar(s) being Awesome wibars. The
 
 ## WPGTK
 
-[WPGTK](https://github.com/deviantfero/wpgtk) is a colour scheme generator and setter which can take a scheme from the colours in an image you provde, usually your wallpaper.
+[WPGTK](https://github.com/deviantfero/wpgtk) is a colour scheme generator and setter which can take a scheme from the colours in an image you provide, usually your wallpaper.
 
 ## Colours
 
@@ -20,7 +20,7 @@ The window manager is AwesomeWM with the status bar(s) being Awesome wibars. The
 
 ## Fonts
 
-THe fonts used are [Font Awesome](https://fontawesome.com/) and [JetBrains Mono.](https://www.jetbrains.com/lp/mono/)
+The fonts used are [Font Awesome](https://fontawesome.com/) and [JetBrains Mono.](https://www.jetbrains.com/lp/mono/)
 
 ## Kitty
 
@@ -28,11 +28,11 @@ THe fonts used are [Font Awesome](https://fontawesome.com/) and [JetBrains Mono.
 
 ## tty-clock
 
-tty-clock can be found [here.](https://github.com/xorg62/tty-clock). Arch users can install the package of the same name.
+tty-clock can be found [here.](https://github.com/xorg62/tty-clock) Arch users can install the package of the same name.
 
 ## Cowsay
 
-Cowsay can be found [here.](https://github.com/tnalpgge/rank-amateur-cowsay). Arch users can install the **cowsay** package.
+Cowsay can be found [here.](https://github.com/tnalpgge/rank-amateur-cowsay) Arch users can install the **cowsay** package.
 
 ## Neofetch
 
