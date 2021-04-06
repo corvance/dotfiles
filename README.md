@@ -10,6 +10,8 @@ For anyone who isn't as dumb as me setting it up in the early hours on no sleep,
 
 The window manager is AwesomeWM with the status bar(s) being Awesome wibars. The config for it is a little hackey but it gets the job done, and all keybindings are the defaults with addition of Super + = to show/hide the systray, which is hidden by default.
 
+The widgets can be found [here.](https://github.com/streetturtle/awesome-wm-widgets)
+
 ## WPGTK
 
 [WPGTK](https://github.com/deviantfero/wpgtk) is a colour scheme generator and setter which can take a scheme from the colours in an image you provide, usually your wallpaper.
