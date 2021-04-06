@@ -7,15 +7,14 @@ local taglist_types = {
 
 local chosen_taglist_type = taglist_types[2]
 local theme           = {}
-theme.dir             = os.getenv("HOME") .. "/.config/awesome/themes/pro-dark"
---theme.dir             = os.getenv("HOME") .. "/code/awesome-pro/themes/pro-dark"
+theme.dir             = os.getenv("HOME") .. "/.config/awesome/themes/awesome-theme"
 
 theme.icons           = theme.dir .. "/icons"
 theme.wallpaper       = theme.dir .. "/wallpapers/wallpaper.png"
 theme.panel           = "png:" .. theme.icons .. "/panel/panel.png"
 theme.font            = "JetBrains Mono Bold 9"
-theme.calendar_font   = "Roboto 10"
-theme.fs_font         = "Roboto 10"
+theme.calendar_font   = "JetBrains Mono 10"
+theme.fs_font         = "JetBrains Mono 10"
 
 theme.fg_normal         = "#FFFFFF"
 theme.fg_focus          = "#c63938"
@@ -44,7 +43,7 @@ theme.menu_height = 18
 theme.menu_width  = 160
 
 -- Notifications
-theme.notification_font                         = "Meslo LGS Regular"
+theme.notification_font                         = "JetBrains Mono"
 theme.notification_bg                           = "#232323"
 theme.notification_fg                           = "#e4e4e4"
 theme.notification_border_width                 = 0
